@@ -1,5 +1,7 @@
 # Diffusion Toy
 
+![til](./gifs/DiffusionSample.gif)
+
 Diffusion Toy is an experimental project designed to visualize how image generation works using diffusion models, specifically DDPM (Denoising Diffusion Probabilistic Models). The goal is to provide an intuitive, live view of the diffusion and denoising process rather than treating it as a black box.
 
 The model is trained on the MNIST dataset, resulting in a small diffusion model that can generate images quickly enough to be explored interactively.
